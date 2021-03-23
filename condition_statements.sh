@@ -5,7 +5,7 @@ if [ $a -gt $b ]
 then 
 	echo "print a is greater than b"
 else
-then
-	ech0 "print b is greater than a"
+
+	echo "print b is greater than a"
 
 fi
