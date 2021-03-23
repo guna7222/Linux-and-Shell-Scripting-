@@ -1,0 +1,7 @@
+# single line comment
+:'
+ command for removing temp files in linux
+'
+
+sudo rm -rf /temp/*
+
